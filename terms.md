@@ -28,4 +28,4 @@ iPhoneの「設定」>「Apple ID」>「サブスクリプション」>「VocaLa
 
 ## 5. お問い合わせ
 
-メール: kato.reham@gmail.com
+メール: vocalane.app@gmail.com

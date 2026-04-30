@@ -23,7 +23,7 @@
 
 本ポリシーに関するご質問は、以下までご連絡ください。
 
-メール: kato.reham@gmail.com
+メール: vocalane.app@gmail.com
 
 ## 改定について
 
