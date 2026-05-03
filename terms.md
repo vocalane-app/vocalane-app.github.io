@@ -1,4 +1,8 @@
-# 利用規約
+# 利用規約 / Terms of Service
+
+[English version below](#terms-of-service-english)
+
+---
 
 最終更新日: 2026年4月30日
 
@@ -29,3 +33,37 @@ iPhoneの「設定」>「Apple ID」>「サブスクリプション」>「VocaLa
 ## 5. お問い合わせ
 
 メール: vocalane.app@gmail.com
+
+---
+
+# Terms of Service (English)
+
+Last updated: April 30, 2026
+
+## 1. Subscriptions
+
+- VocaLane Plus is an auto-renewable subscription
+- You can choose from a monthly or annual plan
+- A 7-day free trial is included
+- After the free trial ends, the selected plan's fee will be charged to your Apple ID
+- Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period
+
+## 2. How to Cancel
+
+You can cancel your subscription at any time.
+
+Go to iPhone Settings > Apple ID > Subscriptions > VocaLane Plus > Cancel Subscription
+
+After cancellation, you can continue using Plus features until the end of the current billing period.
+
+## 3. Disclaimer
+
+This App is intended to assist with music practice. It does not guarantee practice results.
+
+## 4. Governing Law
+
+These terms are governed by the laws of Japan.
+
+## 5. Contact
+
+Email: vocalane.app@gmail.com
